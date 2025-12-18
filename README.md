@@ -22,13 +22,13 @@ Yahoo Finance → Feature Extraction → Opportunity & Confidence Scoring
 
 ## Screenshots
 (Swagger)
-docs/images/01_Swagger_UI_home
-docs/images/02_Swagger_UI_Get
-docs/images/03_Swagger_UI_Response
-docs/images/04_Swagger_UI_Get_alerts
-docs/images/05_Swagger_UI_Get_alerts_response
+1. docs/images/01_Swagger_UI_home
+2. docs/images/02_Swagger_UI_Get
+3. docs/images/03_Swagger_UI_Response
+4. docs/images/04_Swagger_UI_Get_alerts
+5. docs/images/05_Swagger_UI_Get_alerts_response
 (Streamlit)
-06_Streamlit_alerts_indicator
+6. 06_Streamlit_alerts_indicator
 
 ## How to Run Locally
 1. Clone the repo
